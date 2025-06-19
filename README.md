@@ -27,7 +27,7 @@ Easily run locally by opening `index.html` in your browser.
 2. **Open `index.html` in your browser.**
 3. No build steps or dependencies required!
 
-## 📦 Folder Structure
+## Folder Structure
 ```
 currency-converter/
   ├── index.html
